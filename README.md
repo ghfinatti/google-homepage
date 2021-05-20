@@ -1,0 +1,1 @@
+This project is a part of The Project Odin's curriculum. It's meant for practicing frontend tools, such as HTML and CSS.
