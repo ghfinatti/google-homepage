@@ -1,53 +1,53 @@
-.header{
-    padding: 6px;
-    height: 42px;
-}
-
-.rightdiv{
-    padding-left: 32px;
-    float: right;
-}
-
-.logodiv{
-    margin: auto;
-    background-color: gray;
-}
-
-.headerlinks{
-    vertical-align: middle;
-}
-.mypic{
-    text-align: right;
-}
-
-.mypicchild{
-    background-size: 32px 32px;
-    width:32px;
+.userpic{
     height: 32px;
+    width: 32px;
     border-radius: 50%;
+    vertical-align: center;
 }
 
-.mypicchild:hover{
-    box-shadow: 0px 0px 6px 0px gray;
+.headercontainer{
+    height:50px;
+}
+.menutext{
+    padding: 5px;
+    margin-right: 13px;
+    color: rgba(0,0,0,0.87);
+    font-family: Arial, sans-serif;
+    font-size: 13px;
+    text-decoration: none;
 }
 
-.logo{
-    margin: auto;
-    display: flex;
-    object-position: center bottom;
-}
-
-.searchbar{
-    margin: auto;
-    display: flex;
-    object-position: center bottom;
-}
-
-.appicon{
-    width: 24px;
+.appmenu{
     height: 24px;
+    width: 24px;
+    margin-right: 20px;
+    margin-top: 2px;
+}
+.headermenu{
+    float:right;
+    height: 42px;
+    display: flex;
+    padding: 5px;
 }
 
 .logocontainer{
-    height: 400px;
+    display: flex;
+    justify-content: center;
+    width: 100%;
+}
+.googlelogo{
+    height: 92px;
+    padding-top: 3%;
+}
+
+.searchcontainer{
+    border: 5px solid black;
+}
+
+#search{
+    display: flex;
+    margin: auto;
+    width: 584px;
+    height:34px;
+    border-radius: 24px;
 }
