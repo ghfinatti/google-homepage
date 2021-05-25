@@ -1,1 +1,5 @@
-This project is a part of The Project Odin's curriculum. It's meant for practicing frontend tools, such as HTML and CSS.
+The Odin Project: Foundations
+
+Google Homepage Project
+
+This project is part of The Odin Project's curriculum. It's meant as an introduction to HTML and CSS.
