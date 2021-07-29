@@ -1,4 +1,4 @@
-###[Google Homepage Project](https://ghfinatti.github.io/google-homepage/)
+### [Google Homepage Project](https://ghfinatti.github.io/google-homepage/)
 
 This project is part of [The Odin Project's](https://www.theodinproject.com) curriculum.
 
