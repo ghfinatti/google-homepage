@@ -1,5 +1,5 @@
-The Odin Project: Foundations
+###[Google Homepage Project](https://ghfinatti.github.io/google-homepage/)
 
-Google Homepage Project
+This project is part of [The Odin Project's](https://www.theodinproject.com) curriculum.
 
-This project is part of The Odin Project's curriculum. It's meant as an introduction to HTML and CSS.
+It's a simple clone of the Google homepage, meant as an introduction to HTML and CSS.
